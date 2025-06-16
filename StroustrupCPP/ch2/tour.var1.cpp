@@ -1,0 +1,3 @@
+int inch;
+
+int main () { }
