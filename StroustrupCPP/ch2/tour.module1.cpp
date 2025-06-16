@@ -6,7 +6,7 @@ namespace Stack {        // interface
 void f()
 {
     Stack::push('c');
-    if (Stack::pop() != 'c') error ("impossible");
+    if (Stack::pop() != 'c') error("impossible");
 }
 
 int main () { }
