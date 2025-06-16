@@ -1,3 +1,5 @@
+#include<iostream>
+
 bool accept()
 {
     cout << "Do you want to proceed (y or n) ?\n";    // write question
