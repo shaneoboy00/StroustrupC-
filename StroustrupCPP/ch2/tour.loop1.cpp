@@ -1,3 +1,4 @@
+#include<iostream>
 using namespace std;    // make std names available without std::prefix
 
 bool accept()
